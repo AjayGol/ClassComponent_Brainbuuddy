@@ -1,0 +1,632 @@
+[
+  {
+    id: 1,
+    question: "In Greek mythology, Medusa was said to be what type of beast?",
+    correctAnswer: "Gorgon",
+    answers: ["Hydra", "Gorgon", "Basilisk"]
+  },
+  {
+    id: 2,
+    question: "What type of EM radiation gives people tans?",
+    correctAnswer: "Ultraviolet",
+    answers: ["Infrared", "Gamma", "Ultraviolet"]
+  },
+  {
+    id: 3,
+    question: "The uppermost region of the sun is called the?",
+    correctAnswer: "Corona",
+    answers: ["Photosphere", "Chromosphere", "Corona"]
+  },
+  {
+    id: 4,
+    question: "During World War 1, South Africa captured?",
+    correctAnswer: "Namibia",
+    answers: ["Rwanda", "Zimbabwe", "Namibia"]
+  },
+  {
+    id: 5,
+    question: "Who is known as the father of Botany?",
+    correctAnswer: "Theophrastus",
+    answers: ["Aristotle", "Mendel", "Theophrastus"]
+  },
+  {
+    id: 6,
+    question: "In Greek mythology, who is the twin brother of Artemis?",
+    correctAnswer: "Apollo",
+    answers: ["Ares", "Apollo", "Hermes"]
+  },
+  {
+    id: 7,
+    question: "How many black squares are on a chess board?",
+    correctAnswer: "32",
+    answers: ["32", "40", "48"]
+  },
+  {
+    id: 8,
+    question: "Which city hosted the first game of the 2006 FIFA World Cup?",
+    correctAnswer: "Munich",
+    answers: ["Berlin", "Frankfurt", "Munich"]
+  },
+  {
+    id: 9,
+    question: "Which name refers to the brightness of a star?",
+    correctAnswer: "Magnitude",
+    answers: ["Magnitude", "Albedo", "Density"]
+  },
+  {
+    id: 10,
+    question: "Which river separates China and North Korea?",
+    correctAnswer: "Yalu",
+    answers: ["Laoha", "Xiliao", "Yalu"]
+  },
+  {
+    id: 11,
+    question: "Another name for sodium chloride?",
+    correctAnswer: "Salt",
+    answers: ["Flour", "Sugar", "Salt"]
+  },
+  {
+    id: 12,
+    question: "In greek mythology, which god fathered nine daughters known as the ‘Muses’?",
+    correctAnswer: "Zeus",
+    answers: ["Zeus", "Poseidon", "Hades"]
+  },
+  {
+    id: 13,
+    question: "‘Jack the Ripper’ is credited with how many murders?",
+    correctAnswer: "5",
+    answers: ["5", "8", "11"]
+  },
+  {
+    id: 14,
+    question: "Which county invented origami?",
+    correctAnswer: "Japan",
+    answers: ["Japan", "China", "Russia"]
+  },
+  {
+    id: 15,
+    question: "Which bone is found in the wrist?",
+    correctAnswer: "Capitate",
+    answers: ["Cochlea", "Cramium", "Capitate"]
+  },
+  {
+    id: 16,
+    question: "Who was the first member to leave the pop group ’The Spice Girls’?",
+    correctAnswer: "Geri",
+    answers: ["Emma", "Geri", "Mel C"]
+  },
+  {
+    id: 17,
+    question: "Albert Einstein was born in which country?",
+    correctAnswer: "Germany",
+    answers: ["Poland", "Germany", "Switzerland"]
+  },
+  {
+    id: 18,
+    question: "The 2004 Olympic Games were hosted in which country?",
+    correctAnswer: "Greece",
+    answers: ["Greece", "Australia", "Atlanta"]
+  },
+  {
+    id: 19,
+    question: "What is the sum of the dots on opposite faces of a standard dice?",
+    correctAnswer: "7",
+    answers: ["7", "9", "10"]
+  },
+  {
+    id: 20,
+    question: "A traditional gift for a 30th wedding anniversary is?",
+    correctAnswer: "Pearl",
+    answers: ["Ivory", "Pearl", "China"]
+  },
+  {
+    id: 21,
+    question: "Triton is a moon of which planet?",
+    correctAnswer: "Neptune",
+    answers: ["Uranus", "Neptune", "Saturn"]
+  },
+  {
+    id: 22,
+    question: "Bronze is an alloy of copper and which other metal?",
+    correctAnswer: "Tin",
+    answers: ["Lead", "Iron", "Tin"]
+  },
+  {
+    id: 23,
+    question: "In a game of Texas Hold-em Poker, which of the following is the highest hand?",
+    correctAnswer: "Flush",
+    answers: ["Full House", "Straight", "Flush"]
+  },
+  {
+    id: 24,
+    question: "The planet Jupiter is named for which Greek god?",
+    correctAnswer: "Zeus",
+    answers: ["Zeus", "Hercules", "Apollo"]
+  },
+  {
+    id: 25,
+    question: "In 1912, the famous ocean liner Titanic sank in which ocean?",
+    correctAnswer: "North Atlantic",
+    answers: ["North Atlantic", "South Atlantic", "Arctic"]
+  },
+  {
+    id: 26,
+    question: "In Roman numerals, which letter signifies 100?",
+    correctAnswer: "C",
+    answers: ["M", "D", "C"]
+  },
+  {
+    id: 27,
+    question: "A brogue is a type of?",
+    correctAnswer: "Shoe",
+    answers: ["Hat", "Shoe", "Guitar"]
+  },
+  {
+    id: 28,
+    question: "What is the longest running American animated TV show?",
+    correctAnswer: "The Simpsons",
+    answers: ["The Simpsons", "Pokemon", "Rugrats"]
+  },
+  {
+    id: 29,
+    question: "What constellation can be found on the Australian flag?",
+    correctAnswer: "Southern Cross",
+    answers: ["Southern Cross", "Big Dipper", "Scorpius"]
+  },
+  {
+    id: 30,
+    question: "In the NATO phonetic alphabet, the letter H stands for which word?",
+    correctAnswer: "Hotel",
+    answers: ["Hammer", "Hotel", "Hello"]
+  },
+  {
+    id: 31,
+    question: "Iceberg is a type of?",
+    correctAnswer: "Lettuce",
+    answers: ["Cabbage", "Cauliflower", "Lettuce"]
+  },
+  {
+    id: 32,
+    question: "Ronald Reagan served as US president during which decade?",
+    correctAnswer: "1980s",
+    answers: ["1960s", "1970s", "1980s"]
+  },
+  {
+    id: 33,
+    question: "Which of the following is a bird AND a fruit?",
+    correctAnswer: "Kiwi",
+    answers: ["Kiwi", "Juju", "Mango"]
+  },
+  {
+    id: 34,
+    question: "Since 1917, what has the Pulitzer Prize been awarded for?",
+    correctAnswer: "Journalism",
+    answers: ["Journalism", "Cooking", "Research"]
+  },
+  {
+    id: 35,
+    question: "What was Pinocchio made of?",
+    correctAnswer: "Wood",
+    answers: ["Straw", "Wood", "Porcelain"]
+  },
+  {
+    id: 36,
+    question: "Which is the sixth planet from the sunset?",
+    correctAnswer: "Saturn",
+    answers: ["Saturn", "Neptune", "Jupiter"]
+  },
+  {
+    id: 37,
+    question: "Which plant is the source of linen?",
+    correctAnswer: "Flax",
+    answers: ["Rattan", "Hemp", "Flax"]
+  },
+  {
+    id: 38,
+    question: "Which of the following is an Asian art form involving plants?",
+    correctAnswer: "Bonsai",
+    answers: ["Bonsai", "Wasabi", "Sudoku"]
+  },
+  {
+    id: 39,
+    question: "How many arms does a squid have?",
+    correctAnswer: "8",
+    answers: ["8", "12", "16"]
+  },
+  {
+    id: 40,
+    question: "According to the bible, on which mountain did Noah’’s Ark run aground?",
+    correctAnswer: "Mount Ararat",
+    answers: ["Mount Nebo", "Mount Ararat", "Mount Sinai"]
+  },
+  {
+    id: 41,
+    question: "Dan Brown’s book ‘The Da Vinci Code’ was banned in which country?",
+    correctAnswer: "Lebanon",
+    answers: ["Italy", "Lebanon", "Vatican City State"]
+  },
+  {
+    id: 42,
+    question: "Chicago is located on the shore of which state?",
+    correctAnswer: "Lake Michigan",
+    answers: ["Lake Erie", "Lake Michigan", "Lake Superior"]
+  },
+  {
+    id: 43,
+    question: "The binary system uses which 2 digits?",
+    correctAnswer: "1 and 0",
+    answers: ["1 and 0", "10 and 100", "1 and 2"]
+  },
+  {
+    id: 44,
+    question: "Which term is used to describe a rising stock market?",
+    correctAnswer: "Bull",
+    answers: ["Tiger", "Bear", "Bull"]
+  },
+  {
+    id: 45,
+    question: "Which celestial body does not directly orbit the sun?",
+    correctAnswer: "The moon",
+    answers: ["Jupiter", "Pluto", "The moon"]
+  },
+  {
+    id: 46,
+    question: "On stage, Michael Jackson famously wore only one?",
+    correctAnswer: "Glove",
+    answers: ["Show", "Sock", "Glove"]
+  },
+  {
+    id: 47,
+    question: "Which particle does NOT carry an electric charge?",
+    correctAnswer: "Neutrino",
+    answers: ["Electron", "Neutrino", "Proton"]
+  },
+  {
+    id: 48,
+    question: "Gatwick airport can be found near which European capital?",
+    correctAnswer: "London",
+    answers: ["Paris", "London", "Madrid"]
+  },
+  {
+    id: 49,
+    question: "What was the given name of the US President known as JFK?",
+    correctAnswer: "John",
+    answers: ["John", "Joe", "Jerry"]
+  },
+  {
+    id: 50,
+    question: "Which chess piece moves in an L shape?",
+    correctAnswer: "Knight",
+    answers: ["Queen", "Knight", "Bishop"]
+  },
+  {
+    id: 51,
+    question: "What sport is played at Wimbledon, England?",
+    correctAnswer: "Tennis",
+    answers: ["Cricket", "Tennis", "Football"]
+  },
+  {
+    id: 52,
+    question: "Spider-Man lives in which city?",
+    correctAnswer: "New York",
+    answers: ["New York", "Metropolis", "Gotham City"]
+  },
+  {
+    id: 53,
+    question: "Who wrote the science fiction novel, ‘A Journey to the Centre of the Earth’?",
+    correctAnswer: "Jules Verne",
+    answers: ["Mark Twain", "Jules Verne", "Isaac Asimov"]
+  },
+  {
+    id: 54,
+    question: "What device is used to measure tempo?",
+    correctAnswer: "Metronome",
+    answers: ["Metronome", "Tuning Fork", "Spectrometer"]
+  },
+  {
+    id: 55,
+    question: "On average, a koala spends 20 hours a day?",
+    correctAnswer: "Sleeping",
+    answers: ["Sleeping", "Eating", "Climbing"]
+  },
+  {
+    id: 56,
+    question: "Which leaf is found on the Canadian flag?",
+    correctAnswer: "Maple",
+    answers: ["Oak", "Beech", "Maple"]
+  },
+  {
+    id: 57,
+    question: "Phnom Penh is the capital of which country?",
+    correctAnswer: "Cambodia",
+    answers: ["Laos", "Malaysia", "Cambodia"]
+  },
+  {
+    id: 58,
+    question: "The human body is primarily made of?",
+    correctAnswer: "Water",
+    answers: ["Fat", "Protein", "Water"]
+  },
+  {
+    id: 59,
+    question: "Al Capone was a famous American what?",
+    correctAnswer: "Gangster",
+    answers: ["Gangster", "Author", "Politician"]
+  },
+  {
+    id: 60,
+    question: "Which is NOT a state of matter?",
+    correctAnswer: "Frozen",
+    answers: ["Solid", "Frozen", "Gas"]
+  },
+  {
+    id: 61,
+    question: "A painting made with water colors is called a what?",
+    correctAnswer: "Aquarelle",
+    answers: ["Mosaic", "Aquarelle", "Graffiti"]
+  },
+  {
+    id: 62,
+    question: "Who wrote ‘The Adventures of Tom Sawyer’?",
+    correctAnswer: "Mark Twain",
+    answers: ["Mark Twain", "Huckleberry Finn", "Oscar Wilde"]
+  },
+  {
+    id: 63,
+    question: "Which credit card usually features a centurion on its face?",
+    correctAnswer: "American Express",
+    answers: ["American Express", "Visa", "MasterCard"]
+  },
+  {
+    id: 64,
+    question: "Mark Zuckerberg founded which company?",
+    correctAnswer: "Facebook",
+    answers: ["Wikipedia", "Google", "Facebook"]
+  },
+  {
+    id: 65,
+    question: "Which type of bird is often associated with wisdom?",
+    correctAnswer: "Owl",
+    answers: ["Sparrow", "Stork", "Owl"]
+  },
+  {
+    id: 66,
+    question: "A dehumidifier removes what from the air?",
+    correctAnswer: "Water",
+    answers: ["Smell", "Water", "Smoke"]
+  },
+  {
+    id: 67,
+    question: "Which vegetable takes its name from a European city?",
+    correctAnswer: "Brussels sprouts",
+    answers: ["Brussels sprouts", "Dublin potatoes", "Manchester berries"]
+  },
+  {
+    id: 68,
+    question: "What is the outer layer of the trunk of a tree called?",
+    correctAnswer: "Bark",
+    answers: ["Pith", "Sapwood", "Bark"]
+  },
+  {
+    id: 69,
+    question: "The SETI project involves the search for?",
+    correctAnswer: "Aliens",
+    answers: ["Aliens", "Elves", "Ghosts"]
+  },
+  {
+    id: 70,
+    question: "What is the largest continent by area?",
+    correctAnswer: "Asia",
+    answers: ["Europe", "Africa", "Asia"]
+  },
+  {
+    id: 71,
+    question: "Marsupials have what unique feature?",
+    correctAnswer: "Pouches",
+    answers: ["Webbed feet", "Night vision", "Pouches"]
+  },
+  {
+    id: 72,
+    question: "The seasonal movement of animals over long distances is called?",
+    correctAnswer: "Migration",
+    answers: ["Migration", "Translation", "Vacation"]
+  },
+  {
+    id: 73,
+    question: "When was smallpox declared to be eradicated from the world?",
+    correctAnswer: "1980",
+    answers: ["1940", "1980", "2000"]
+  },
+  {
+    id: 74,
+    question: "Which organ is part of the digestive system?",
+    correctAnswer: "Stomach",
+    answers: ["Stomach", "Kidneys", "Lungs"]
+  },
+  {
+    id: 75,
+    question: "Brass is an alloy of Zinc and which other material?",
+    correctAnswer: "Copper",
+    answers: ["Lead", "Copper", "Gold"]
+  },
+  {
+    id: 76,
+    question: "What is radar used for?",
+    correctAnswer: "Detecting objects",
+    answers: ["Measuring flux", "Amplifying sound", "Detecting objects"]
+  },
+  {
+    id: 77,
+    question: "Yellow and blue combine to create?",
+    correctAnswer: "Green",
+    answers: ["Blue", "Green", "Orange"]
+  },
+  {
+    id: 78,
+    question: "Which is the lightest metal?",
+    correctAnswer: "Aluminum",
+    answers: ["Aluminum", "Lead", "Iron"]
+  },
+  {
+    id: 79,
+    question: "Who was the Greek God of victory?",
+    correctAnswer: "Nike",
+    answers: ["Nike", "Hebe", "Victorious"]
+  },
+  {
+    id: 80,
+    question: "Complete the saying: ‘All the world’s a’’?",
+    correctAnswer: "Stage",
+    answers: ["Oyster", "Stage", "Home"]
+  },
+  {
+    id: 81,
+    question: "Which country is NOT a part of Scandinavia?",
+    correctAnswer: "Italy",
+    answers: ["Norway", "Sweden", "Italy"]
+  },
+  {
+    id: 82,
+    question: "How many years in a millennium?",
+    correctAnswer: "1,000",
+    answers: ["1,000", "10,000", "100"]
+  },
+  {
+    id: 83,
+    question: "Which country is part of South America?",
+    correctAnswer: "Argentina",
+    answers: ["Argentina", "Ghana", "Mexico"]
+  },
+  {
+    id: 84,
+    question: "What is the largest living animal?",
+    correctAnswer: "Blue Whale",
+    answers: ["African Elephant", "Blue Whale", "Giant Squid"]
+  },
+  {
+    id: 85,
+    question: "How many hydrogen atoms in a water molecule?",
+    correctAnswer: "2",
+    answers: ["4", "2", "1"]
+  },
+  {
+    id: 86,
+    question: "Where did the 2016 Summer Olympics take place?",
+    correctAnswer: "Rio de Janeiro",
+    answers: ["Athens", "Rio de Janeiro", "Jakarta"]
+  },
+  {
+    id: 87,
+    question: "What is an archipelago?",
+    correctAnswer: "Island group",
+    answers: ["River delta", "Island group", "Headland"]
+  },
+  {
+    id: 88,
+    question: "What is grown in a paddy field?",
+    correctAnswer: "Rice",
+    answers: ["Rice", "Wheat", "Corn"]
+  },
+  {
+    id: 89,
+    question: "The chemical element Mercury is also known as?",
+    correctAnswer: "Quicksilver",
+    answers: ["Quicksilver", "Fermium", "Gallium"]
+  },
+  {
+    id: 90,
+    question: "What is the official national sport of Cuba?",
+    correctAnswer: "Baseball",
+    answers: ["Volleyball", "Boxing", "Baseball"]
+  },
+  {
+    id: 91,
+    question: "Where is Tunisia located?",
+    correctAnswer: "Africa",
+    answers: ["Africa", "Europe", "South America"]
+  },
+  {
+    id: 92,
+    question: "What was banned in the USA during the Prohibition?",
+    correctAnswer: "Alcohol",
+    answers: ["Gambling", "Smoking", "Alcohol"]
+  },
+  {
+    id: 93,
+    question: "Aurora is the Roman Goddess of what?",
+    correctAnswer: "Dawn",
+    answers: ["Fertility", "Thunder", "Dawn"]
+  },
+  {
+    id: 94,
+    question: "What topping is needed for a pizza funghi?",
+    correctAnswer: "Mushrooms",
+    answers: ["Artichokes", "Mushrooms", "Anchovy"]
+  },
+  {
+    id: 95,
+    question: "What is the name of cards used for fortune telling?",
+    correctAnswer: "Tarot",
+    answers: ["Poker", "Tarot", "Solitaire"]
+  },
+  {
+    id: 96,
+    question: "Which is the largest US state by area?",
+    correctAnswer: "Alaska",
+    answers: ["Hawaii", "Texas", "Alaska"]
+  },
+  {
+    id: 97,
+    question: "What fruit grows in bunches and is known as ‘hands’?",
+    correctAnswer: "Banana",
+    answers: ["Pear", "Banana", "Kiwi"]
+  },
+  {
+    id: 98,
+    question: "Which unit is measured in watts?",
+    correctAnswer: "Power",
+    answers: ["Density", "Power", "Volume"]
+  },
+  {
+    id: 99,
+    question: "Salvador Dali belonged to which artistic school?",
+    correctAnswer: "Surrealism",
+    answers: ["Mannerism", "Surrealism", "Baroque"]
+  },
+  {
+    id: 100,
+    question: "10 x 10 x 10 = ?",
+    correctAnswer: "1000",
+    answers: ["10,000", "1000", "300"]
+  },
+  {
+    id: 101,
+    question: "What is 60 divided by 5?",
+    correctAnswer: "12",
+    answers: ["15", "12", "10"]
+  },
+  {
+    id: 102,
+    question: "What is 1004 divided by 2?",
+    correctAnswer: "502",
+    answers: ["52", "502", "520"]
+  },
+  {
+    id: 103,
+    question: "19 + ___ = 42?",
+    correctAnswer: "23",
+    answers: ["23", "61", "32"]
+  },
+  {
+    id: 104,
+    question: "190 - 87 + 16?",
+    correctAnswer: "119",
+    answers: ["261", "87", "119"]
+  },
+  {
+    id: 105,
+    question: "What is 1000 x 1?",
+    correctAnswer: "1000",
+    answers: ["1", "1000", "0"]
+  }
+]
